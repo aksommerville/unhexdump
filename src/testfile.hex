@@ -1,0 +1,11 @@
+# Verify all legal digits:
+00 01 02 03
+ff fe fd fc
+01 23 45 67 89 ab cd ef
+AB CD EF
+
+# Space is optional:
+CafeBabe # And line comments can go anywhere.
+
+# Extra space permitted, even between digits:
+f e e d  f a c e  d e a d  b e e f
